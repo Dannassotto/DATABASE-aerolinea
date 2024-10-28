@@ -6,9 +6,6 @@ Este repositorio contiene el esquema de base de datos para gestionar informació
 ## Creación de la Base de Datos
 
 ```sql
-CREATE DATABASE aerolinea;
-USE aerolinea;
-
 
 
 CREATE DATABASE aerolinea;
